@@ -1,6 +1,6 @@
-# Reveltek-Careers
+# Reveltek Careers
 
-## Website: careers.reveltek.com
+### https://careers.reveltek.com
 
 ## Revel Up™️
 * RevelTek Basic Manual (DIDO)
