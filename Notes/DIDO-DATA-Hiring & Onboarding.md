@@ -16,3 +16,5 @@ Employers should ensure that all data collected is analyzed in a manner that is 
 
 ## Data Retention - 
 Employers should ensure that all data collected is retained in accordance with applicable laws and regulations. Employers should also ensure that the data is securely destroyed when no longer needed.
+
+# Conclusion 
