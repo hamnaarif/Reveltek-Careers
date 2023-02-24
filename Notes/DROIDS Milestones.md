@@ -14,7 +14,7 @@ Based on DROIDS, the program is divided into Six stages namely
 5. DATA
 6. SECURITY
 
-# Each focusing on a different area of expertise.
+# Each focusing on a different area of expertise, skill and enhancement.
 
 ## Stage 1: Development
 The first stage of the Career Advancement Program focuses on development research. This stage provides employees with the opportunity to gain an understanding of the company's products and services, as well as the research and development processes involved in creating them. Employees will learn how to identify and analyze customer needs, develop new products and services, and identify and implement solutions to improve existing products and services.
