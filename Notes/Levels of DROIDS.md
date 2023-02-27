@@ -8,3 +8,11 @@
 ### 3. Advanced Level
 
 Every level will have its own set of things to learn and obtain to go to the next level. 
+
+## Foundation Level
+1. Understand the basics of D.R.O.D.S and its core concepts.
+2. Develop an understanding of the different D.R.O.I.D.S tools and technologies.
+3. Learn the fundamentals of D.R.O.I.D.S best practices.
+4. Gain experience with D.R.O.I.D.S automation and orchestration.
+
+
