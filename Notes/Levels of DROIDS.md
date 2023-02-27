@@ -21,4 +21,8 @@ Every level will have its own set of things to learn and obtain to go to the nex
 3. Learn the fundamentals of D.R.O.I.D.S scalability and performance.
 4. Develop an understanding of D.R.O.I.D.S cost optimization.
 
-
+## Advanced Level
+1. Gain experience with D.R.O.I.D.S deployment and rollout.
+2. Develop an understanding of D.R.O.I.D.S governance and compliance.
+3. Learn the fundamentals of D.R.O.I.D.S reliability and resiliency.
+4. Gain experience with D.R.O.I.D.S optimization and tuning. 
