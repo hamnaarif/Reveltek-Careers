@@ -15,4 +15,10 @@ Every level will have its own set of things to learn and obtain to go to the nex
 3. Learn the fundamentals of D.R.O.I.D.S best practices.
 4. Gain experience with D.R.O.I.D.S automation and orchestration.
 
+## Intermediate Level
+1. Develop an understanding of D.R.O.I.D.S security and compliance.
+2. Gain experience with D.R.O.I.D.S monitoring and logging.
+3. Learn the fundamentals of D.R.O.I.D.S scalability and performance.
+4. Develop an understanding of D.R.O.I.D.S cost optimization.
+
 
