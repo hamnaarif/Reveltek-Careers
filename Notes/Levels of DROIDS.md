@@ -26,3 +26,5 @@ Every level will have its own set of things to learn and obtain to go to the nex
 2. Develop an understanding of D.R.O.I.D.S governance and compliance.
 3. Learn the fundamentals of D.R.O.I.D.S reliability and resiliency.
 4. Gain experience with D.R.O.I.D.S optimization and tuning. 
+
+These levels will help employees develop their D.R.O.I.D.S skills and advance their careers. The program will be designed to provide employees with a comprehensive understanding of D.R.O.I.D.S, its related concepts and professional life experience to become best in profesional life. 
