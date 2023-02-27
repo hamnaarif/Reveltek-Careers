@@ -6,3 +6,5 @@
 ### 1. Foundation Level
 ### 2. Intermediate Level
 ### 3. Advanced Level
+
+Every level will have its own set of things to learn and obtain to go to the next level. 
