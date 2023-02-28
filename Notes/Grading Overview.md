@@ -7,6 +7,7 @@ We have 15 grading system
 * GS 12 are high level experts
 * GS 13 are leaders of experts.
 * GS 13 is very respectable and rare.
+* GS 14, even higher... GS 15, the highest in our civilian area that aren't classified executives or scientists working on R&D.
 
 
 
