@@ -1,8 +1,9 @@
 # Grading Overview
 
 We have 15 grading system
-
-
+* The grading system starts from grade 1 and ends to grade 15.
+* Grade 1 is the lowest grade.
+* Grade 15 is the highest grade.
 
 
 ### We plan to bring the grading System into Timmsi Land because Timmsi is all about growth.
