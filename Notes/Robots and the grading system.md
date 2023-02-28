@@ -10,7 +10,7 @@
 
 
 ## Grade 3 = Wall-E
-Wall-E is a robot from the 2008 Pixar film of the same name. He is a trash compactor robot who falls in love with another robot, EVE.
+Wall-E is a robot from the 2008 Pixar film of the same name. He is a trash compactor robot who falls in love with another robot, EVE.  He is a small, box-shaped robot with a binocular-like head, two arms, and two treads. Wall-E is programmed with a number of characteristics that make him unique. He is curious, independent, resourceful, and loyal. He is also able to recognize and respond to human emotions. Wall-E's most notable feature is his ability to love, which is demonstrated throughout the movie. He is also able to communicate using a variety of beeps and whistles.
 
 ## Grade  = R2D2
 R2D2 is a robot from the Star Wars franchise. He is a loyal droid who assists Luke Skywalker and the Rebel Alliance in their fight against the Galactic Empire.
