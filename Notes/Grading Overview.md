@@ -6,9 +6,7 @@ We have 15 grading system
 * Grade 15 is the highest grade.
 * GS 12 are high level experts
 * GS 13 are leaders of experts.
-
-[6:20 AM] Mr. Hackney
-GS 13 is very respectable and rare.
+* GS 13 is very respectable and rare.
 
 
 
