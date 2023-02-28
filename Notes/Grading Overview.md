@@ -4,10 +4,8 @@ We have 15 grading system
 * The grading system starts from grade 1 and ends to grade 15.
 * Grade 1 is the lowest grade.
 * Grade 15 is the highest grade.
-* GS 12 are high level experts.
-
-[6:19 AM] Mr. Hackney
-GS 13 are leaders of experts.
+* GS 12 are high level experts
+* GS 13 are leaders of experts.
 
 [6:20 AM] Mr. Hackney
 GS 13 is very respectable and rare.
