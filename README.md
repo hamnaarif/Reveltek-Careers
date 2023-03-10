@@ -3,7 +3,7 @@
 ### https://careers.reveltek.com
 
 ## Revel Up™️
-* RevelTek Basic Manual (DIDO)
+* RevelTek Basic Manual (DROIDS)
 * Interview Prep Guide
 * Skill Assessment
 * Job Offer
