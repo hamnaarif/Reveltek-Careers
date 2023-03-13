@@ -16,8 +16,23 @@ Everyone is eligible to participate in the referral program.
 
 We offer a referral fee of up to 2 lac per referral. To be eligible for the full amount, the applicant must pass our entire training manual with perfect scores and have great communication skills in English. During our calls, they must have their video turned on, fast internet, and excellent audio. It's also important that they exhibit a positive and happy attitude during the interview process.
 
-🤑 How can you claim their reward?
+🤑 How can you claim a reward?
 
 Once the referred candidate has successfully passed our training process and is employed with our company, the employee who referred them can claim their reward through our HR department.
 
 The Referred applicant should be capable of following our entire training manual with perfect scores and perfect communication in English on our calls. It should be ensured by you that the referred candidate meets our standards, they must have their video turned on, fast internet, and great audio. They should also be smiling and happy during the call. 🎗️
+
+
+## Careers We Offer
+
+### Business Development
+- Business Development Apprentice
+- Busienss Development Associate
+- Busienss Development Officer
+- Business Development Director
+- Executive Director
+
+### Human Resources
+- Learning and Development Associate
+- HR Associate
+- HR Director
