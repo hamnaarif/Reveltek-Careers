@@ -15,3 +15,4 @@ Furthermore, we require that you give a summary of your work progress before you
 We understand that these measures may take some time to get used to, but we believe that they will ultimately help us all work together more efficiently and effectively. If you have any questions or concerns, please feel free to reach out to HR.
 
 Thank you for your cooperation and commitment to making our remote workplace a success.
+
