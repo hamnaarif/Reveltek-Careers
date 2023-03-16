@@ -24,3 +24,6 @@
     * MS Teams Rooms  
   * Python
   * Tkinter
+* Research
+  * Focus Hive
+MarisaZeeCatherineGitHubOffice 365
