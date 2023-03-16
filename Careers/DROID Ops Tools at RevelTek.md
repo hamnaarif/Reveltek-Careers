@@ -67,3 +67,10 @@ We use templates, Office 365 includes a range of templates for documents, spread
 
 Overall, by leveraging the features of VS Code, Python, GitHub and Office 365, developers can optimize their development programs to be more efficient, collaborative, and productive.
 ## INTEGRATE 
+VS Code, GitHub, and Stripe are three popular tools that can be integrated into work to enhance productivity and efficiency. VS Code is a lightweight code editor that supports a wide range of programming languages and is used for editing, debugging, and testing code. GitHub is a web-based platform for version control and collaboration that allows developers to work together on code projects, track changes, and manage code repositories. Stripe is a payment processing platform that simplifies the process of accepting payments online. By integrating these tools, developers can write, test, and manage their code in one place, collaborate with team members, and seamlessly accept payments for their products or services. This integration can streamline the development process, improve communication, and increase revenue for businesses.
+  * VS Code
+  * GitHub
+  * Stripe
+
+## DELIVER
+
