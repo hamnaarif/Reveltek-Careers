@@ -73,4 +73,7 @@ VS Code, GitHub, and Stripe are three popular tools that can be integrated into 
   * Stripe
 
 ## DELIVER
-
+GitHub can be used to store and manage code repositories for a project, while SharePoint can be used as a central hub for project-related files, documents, and other resources. This allows team members to access and collaborate on code and project-related files from a single location. GitHub and SharePoint can be integrated to provide version control and document management capabilities for projects. By linking GitHub commits to SharePoint documents, team members can easily track changes and updates to both code and project-related files.
+GitHub and SharePoint together, teams can streamline their workflows, increase collaboration, and ensure the efficient delivery of work.
+  * GitHub
+  * Microsoft SharePoint
