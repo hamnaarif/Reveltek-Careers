@@ -56,6 +56,10 @@ GitHub is a web-based platform that provides a range of collaborative features a
 #### Office 365:
 Office 365 is a suite of web-based applications that includes tools like Word, Excel, PowerPoint, and OneNote.
 ## Optimize
+#### VS Code:
+We optimize Extensions, Debugging and Integrated Terminal of VS codes for our work progress.
+#### Python:
+We optimize the Libraries, Virtual environments and Package managers of the Python in our work. 
 ##### GitHub:
 We use branches, Issue tracking, Code review, Continuous integration to bring in Optimization in the DROID Ops development. 
 #### Office 365:
