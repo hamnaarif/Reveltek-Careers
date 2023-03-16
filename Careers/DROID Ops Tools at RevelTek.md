@@ -16,9 +16,9 @@
     * Live ServerPrettier - Code formatter
     * Material Icon Theme
     * VsCode Great Icons
-* Office 365
-* Pixlr.com
-* Envato Elements
-* Mermaid JS
-* MS Teams
+  * Office 365
+  * Pixlr.com
+  * Envato Elements
+  * Mermaid JS
+  * MS Teams
     
