@@ -65,4 +65,4 @@ We use branches, Issue tracking, Code review, Continuous integration to bring in
 #### Office 365:
 We use templates, Office 365 includes a range of templates for documents, spreadsheets, and presentations, Collaborate in real-time, Use SharePoint and by Useage of PowerApps.
 
-Overall, by leveraging the features of GitHub and Office 365, developers can optimize their development programs to be more efficient, collaborative, and productive.
+Overall, by leveraging the features of VS Code, Python, GitHub and Office 365, developers can optimize their development programs to be more efficient, collaborative, and productive.
