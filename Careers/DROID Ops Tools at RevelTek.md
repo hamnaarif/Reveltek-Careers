@@ -26,4 +26,8 @@
   * Tkinter
 * Research
   * Focus Hive
-MarisaZeeCatherineGitHubOffice 365
+    * Marisa
+    * Zee
+    * Catherine
+  * GitHub
+  * Office 365
