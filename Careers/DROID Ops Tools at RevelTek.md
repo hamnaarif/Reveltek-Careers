@@ -22,3 +22,5 @@
   * Mermaid JS
   * MS Teams
     * MS Teams Rooms  
+  * Python
+  * Tkinter
