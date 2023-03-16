@@ -1,6 +1,6 @@
 # DROID Ops Tools
 
-# Design
+# DESIGN
 Design is a crucial aspect of the DROID Ops lifecycle, as it sets the foundation for the subsequent stages of Research, Optimize, Integrate, and Deliver. It involves defining the architecture and infrastructure of the system, selecting appropriate tools and technologies, and collaborating with different teams such as developers, operations staff, and QA engineers. The design process ensures that the system is reliable, scalable, and maintainable, while also meeting the requirements and constraints of the project. Overall, design is critical to the success of Tech Development projects.
  #### Figma
 This is a great tool for collaborative design work. It allows multiple users to work on the same design project simultaneously, which can save time and increase productivity. Figma also has a wide range of design features that can help you create beautiful and functional designs. We mostly use it for UI/UX design and prototyping. Some of the features we use include:
@@ -44,7 +44,7 @@ This extension was used to enhance the communication and collaboration capabilit
 This extension was used for programming and development. It contributed to DROID Ops by enabling the creation of custom scripts and tools to enhance the functionality of the product.
 #### Tkinter: 
 This extension was used for creating graphical user interfaces (GUIs) in Python. It contributed to DROID Ops by enabling the creation of user-friendly and intuitive interfaces for the product.
-## Research
+## RESEARCH
 ### Focus Hive
 We have AI tools that can be used for the reserach purposes.
 * Zee
@@ -55,7 +55,7 @@ These three are the AI bots of the company which helps in reserach work.
 GitHub is a web-based platform that provides a range of collaborative features and tools for software development projects. While it's mainly used for software development, GitHub can also be used for research-related projects, such as sharing code, data, and research findings with others
 #### Office 365:
 Office 365 is a suite of web-based applications that includes tools like Word, Excel, PowerPoint, and OneNote.
-## Optimize
+## OPTIMIZE
 #### VS Code:
 We optimize Extensions, Debugging and Integrated Terminal of VS codes for our work progress.
 #### Python:
@@ -66,3 +66,4 @@ We use branches, Issue tracking, Code review, Continuous integration to bring in
 We use templates, Office 365 includes a range of templates for documents, spreadsheets, and presentations, Collaborate in real-time, Use SharePoint and by Useage of PowerApps.
 
 Overall, by leveraging the features of VS Code, Python, GitHub and Office 365, developers can optimize their development programs to be more efficient, collaborative, and productive.
+## INTEGRATE 
