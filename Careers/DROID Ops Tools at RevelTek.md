@@ -31,3 +31,15 @@
     * Catherine
   * GitHub
   * Office 365
+* Optimize
+  * VS Code
+  * Python
+  * GitHub
+  * MS Teams
+* Integrate
+  * VS Code
+  * GitHub
+  * Stripe
+* Deliver
+  * GitHub
+  * Microsoft SharePoint
