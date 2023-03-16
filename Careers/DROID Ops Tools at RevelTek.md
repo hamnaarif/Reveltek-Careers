@@ -44,3 +44,21 @@ This extension was used to enhance the communication and collaboration capabilit
 This extension was used for programming and development. It contributed to DROID Ops by enabling the creation of custom scripts and tools to enhance the functionality of the product.
 #### Tkinter: 
 This extension was used for creating graphical user interfaces (GUIs) in Python. It contributed to DROID Ops by enabling the creation of user-friendly and intuitive interfaces for the product.
+## Research
+### Focus Hive
+We have AI tools that can be used for the reserach purposes.
+* Zee
+* Marisa
+* Catherine
+These three are the AI bots of the company which helps in reserach work.
+#### GitHub: 
+GitHub is a web-based platform that provides a range of collaborative features and tools for software development projects. While it's mainly used for software development, GitHub can also be used for research-related projects, such as sharing code, data, and research findings with others
+#### Office 365:
+Office 365 is a suite of web-based applications that includes tools like Word, Excel, PowerPoint, and OneNote.
+## Optimize
+##### GitHub:
+We use branches, Issue tracking, Code review, Continuous integration to bring in Optimization in the DROID Ops development. 
+#### Office 365:
+We use templates, Office 365 includes a range of templates for documents, spreadsheets, and presentations, Collaborate in real-time, Use SharePoint and by Useage of PowerApps.
+
+Overall, by leveraging the features of GitHub and Office 365, developers can optimize their development programs to be more efficient, collaborative, and productive.
