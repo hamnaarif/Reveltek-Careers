@@ -29,3 +29,11 @@ We are a fast-growing remote team that specializes in architectural design and c
 - We offer a competitive salary and benefits package
 - We give full access to Revit 2023 and Proper Training on All Software and Techniques
 - **Salary: 25K PKR per month**
+
+## How to Apply?
+1. [Create a Video Introduction with Us](https://intro.reveltek.com/)
+2. [Apply at RevelTek](https://apply.reveltek.com/)
+3. [Study our Virtual Training Manual](https://training.reveltek.com/)
+4. Check your Email or WhatsApp for an Invitation to Book an Interview*
+
+_*Only Qualified Applicants will receive a notification for Step 4_
