@@ -11,16 +11,21 @@
 - Communicate effectively with construction workers using GitHub issue commits
 ### Requirements
 - At least 2 years of experience in architectural design and construction project management
-- Proficiency in Revit software and GitHub
+- Proficiency in Revit Software
+- Proficiency in GitHub Project Management
+- Markdown Language Proficiency
+- Work in an Agile Team
+- Digital BIM Experience
 - Excellent communication skills and ability to work independently
+- Remote Commmunication Skills, Video Meetings, and Note Taking
 - Bachelor's degree in Architecture or related field (preferred)
 ## About Our Company
 We are a fast-growing remote team that specializes in architectural design and construction management. Our team consists of highly skilled professionals who work together to deliver exceptional results for our clients. As an Architectural Designer and Construction Associate, you will have the opportunity to work on a variety of projects and collaborate with a team of experts in the field.
 ## Why Work With Us?
 - We offer a flexible work schedule and 100% remote work
+- We offer Virtual Access to State-of-the-Art Computer Design Systems with the latest GPU and CPU Processors
 - You will have the opportunity to work on challenging and exciting projects
 - Our team is highly skilled and collaborative, offering opportunities for growth and learning
 - We offer a competitive salary and benefits package
 - We give full access to Revit 2023 and Proper Training on All Software and Techniques
-- *100% remote - Work From Home*
 - **Salary: 25K PKR per month**
