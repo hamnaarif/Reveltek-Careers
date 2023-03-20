@@ -4,9 +4,9 @@ To apply with RevelTek, follow these simple steps:
     - Take a high-end headshot
     - Create a resume in Word Document Format
     - Create digital profiles
-i. Create LinkedIn profile
-    - Create GitHub profile
-    - Create Facebook account
+      - Create LinkedIn profile
+      - Create GitHub profile
+      - Create Facebook account
 2. **Submit FlipGrid Introduction**
     - Submit your FlipGrid introduction at https://intro.reveltek.com
 3. **Fill out our Application Form**
