@@ -4,7 +4,12 @@
 - Create architectural designs using Revit software
 - Prepare MEP plans and communicate with permit offices
 - Design and coordinate landscaping plans
-- Prepare health inspection reports and ensure compliance with regulations
+- Prepare inspection reports for commercial building needs for various offices such as:
+  - Health department for restaurant design
+  - Fire department
+  - Electrical Department
+  - Water Works Offices
+  - Full Compliance and Regulation Standards with all Government Bodies
 - Manage construction projects using GitHub issues and milestones
 - Load ReadMe.md files per house to ensure clear communication with construction workers
 - Create and manage issues in GitHub, and ensure they flow properly into milestones
@@ -29,6 +34,12 @@ We are a fast-growing remote team that specializes in architectural design and c
 - We offer a competitive salary and benefits package
 - We give full access to Revit 2023 and Proper Training on All Software and Techniques
 - **Salary: 25K PKR per month**
+
+## Portfolio of Our Projects
+- [United Home](https://github.com/United-Home/Overview)
+- [Mt Cottages](https://mtcottages.com/)
+- [Tao Cottage](https://taocottage.com/)
+- [SILK Homes](https://silkhomes.org/) (Coming Soon)
 
 ## How to Apply?
 1. [Create a Video Introduction with Us](https://intro.reveltek.com/)
