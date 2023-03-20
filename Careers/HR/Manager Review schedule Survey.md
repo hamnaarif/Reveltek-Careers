@@ -1,6 +1,6 @@
 ## Survey For Managers
 
-Please rate the following questions on a scale of 1-5, with 1 being strongly disagree and 5 being strongly agree:
+Please rate the following questions on a scale of 1-5, with 1-Strongly disagree, 2-Disagree, 3-None , 4-Agree and 5-Strongly agree:
 
 1. Does your manager provide clear direction and expectations for your role?
 2. Does your manager actively listen to your ideas and concerns?
