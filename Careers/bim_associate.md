@@ -1,7 +1,5 @@
 # BIM Associate
-*100% remote*
-**Salary: 25K PKR per month**
-## Job Description
+
 ### Responsibilities
 - Create architectural designs using Revit software
 - Prepare MEP plans and communicate with permit offices
@@ -23,3 +21,6 @@ We are a fast-growing remote team that specializes in architectural design and c
 - You will have the opportunity to work on challenging and exciting projects
 - Our team is highly skilled and collaborative, offering opportunities for growth and learning
 - We offer a competitive salary and benefits package
+- We give full access to Revit 2023 and Proper Training on All Software and Techniques
+- *100% remote - Work From Home*
+- **Salary: 25K PKR per month**
