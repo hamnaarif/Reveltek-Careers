@@ -19,7 +19,7 @@ Employees must take responsibility for our reputation in their social media post
 Employees cannot bully others online. Any form of harassment or discriminatory behavior will not be tolerated.
 
 ## No Participation in Riots or Destructive Social Gatherings:
-Employees cannot attend riots or destructive social gatherings. This behaviour is not in line with our values and will not be tolerated.
+At our company, we strive to create a safe and respectful work environment that aligns with our core values. As such, we kindly remind all employees that participating in riots or destructive social gatherings is not acceptable behavior and will not be tolerated. We believe that every member of our team has an important role to play in upholding our company's values, and we encourage all employees to conduct themselves in a professional and respectful manner both inside and outside of the workplace. 
 
 ## Recruitment Policy:
 Applicants who are or plan to be quiet, shy, introverted, hide, poor social skills, no social profiles, no professional clothing, no photos are not at all welcomed in the company.
