@@ -1,5 +1,6 @@
 # Social Media Policy
 
+
 ## Social Media Policy:
 We recognize the importance of utilizing social media to connect with our customers, colleagues, and other stakeholders. We strive to maintain a professional and ethical presence on social media platforms, and our employees must adhere to the following guidelines when engaging in social media activities:
 
