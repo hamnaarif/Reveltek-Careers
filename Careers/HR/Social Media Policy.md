@@ -9,22 +9,22 @@ Employees can only have professional profiles on social media platforms such as 
 ## Extremist Photos:
 Employees cannot have extremist photos on their profiles or affiliate with any activity that can be seen as a potential threat to environmnet or community.
 
-Company Affiliation:
+## Company Affiliation:
 While full-time employed with us, employees cannot list that they work for any other company but ours. We believe in honesty and integrity at work. 
 
-Responsibility for Reputation:
+## Responsibility for Reputation:
 Employees must take responsibility for our reputation in their social media posts. How they conduct themselves on social media is a reflection of our firm and our values.
 
-No Bullying:
+## No Bullying:
 Employees cannot bully others online. Any form of harassment or discriminatory behavior will not be tolerated.
 
-No Participation in Riots or Destructive Social Gatherings:
+## No Participation in Riots or Destructive Social Gatherings:
 Employees cannot attend riots or destructive social gatherings. This behaviour is not in line with our values and will not be tolerated.
 
-Recruitment Policy:
+## Recruitment Policy:
 Applicants who are or plan to be quiet, shy, introverted, hide, poor social skills, no social profiles, no professional clothing, no photos are not at all welcomed in the company.
 
-Video Calls:
+## Video Calls:
 We require video during calls. Low audio volume or no response is not acceptable.
 
 By following these guidelines, we can ensure that our employees represent our company's values and maintain a positive image on social media. Any violation of this policy will result in disciplinary action, up to and including termination of employment.
