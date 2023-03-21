@@ -7,7 +7,7 @@ We recognize the importance of utilizing social media to connect with our custom
 Employees can only have professional profiles on social media platforms such as LinkedIn, Facebook, and MS Teams. They must articulate their real name, real photo, and use English.
 
 ## Extremist Photos:
-Employees cannot have extremist photos on their profiles or affiliate with any activity that can be seen as a potential threat to environmnet or community.
+It is menditatory to have a professional and elegant profile picture with the required accounts. Employees cannot have extremist photos on their profiles or affiliate with any activity that can be seen as a potential threat to environmnet or community.
 
 ## Company Affiliation:
 While full-time employed with us, employees cannot list that they work for any other company but ours. We believe in honesty and integrity at work. 
