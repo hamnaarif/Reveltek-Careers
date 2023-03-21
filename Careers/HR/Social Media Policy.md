@@ -10,7 +10,7 @@ Employees can only have professional profiles on social media platforms such as 
 Employees cannot have extremist photos on their profiles or affiliate with any activity that can be seen as a potential threat to environmnet or community.
 
 Company Affiliation:
-While full-time employed with us, employees cannot list that they work for any other company but ours.
+While full-time employed with us, employees cannot list that they work for any other company but ours. We believe in honesty and integrity at work. 
 
 Responsibility for Reputation:
 Employees must take responsibility for our reputation in their social media posts. How they conduct themselves on social media is a reflection of our firm and our values.
