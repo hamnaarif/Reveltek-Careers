@@ -16,7 +16,7 @@ While full-time employed with us, employees cannot list that they work for any o
 Employees must take responsibility for our reputation in their social media posts. How they conduct themselves on social media is a reflection of our firm and our values. They should add the SILK activites to their profile to show their interest and good habits. 
 
 ## No Bullying:
-Employees cannot bully others online. Any form of harassment or discriminatory behavior will not be tolerated.
+Employees cannot bully others online. We kindly remind all employees that bullying, harassment, or discriminatory behavior online will not be tolerated. We encourage everyone to engage in respectful and constructive communication with their colleagues, even when interacting through digital channels.
 
 ## No Participation in Riots or Destructive Social Gatherings:
 At our company, we strive to create a safe and respectful work environment that aligns with our core values. As such, we kindly remind all employees that participating in riots or destructive social gatherings is not acceptable behavior and will not be tolerated. We believe that every member of our team has an important role to play in upholding our company's values, and we encourage all employees to conduct themselves in a professional and respectful manner both inside and outside of the workplace. 
