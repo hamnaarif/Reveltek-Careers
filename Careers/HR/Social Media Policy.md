@@ -25,6 +25,9 @@ At our company, we strive to create a safe and respectful work environment that 
 Applicants who are or plan to be quiet, shy, introverted, hide, poor social skills, no social profiles, no professional clothing, no photos are not at all welcomed in the company.
 
 ## Video Calls:
-We require video during calls. Low audio volume or no response is not acceptable.
+Video calls are an essential part of our communication strategy, especially in the current remote work environment. They allow us to connect face-to-face, build relationships, and collaborate effectively. Therefore, it is mandatory for all employees to have their videos on during calls. 
 
-By following these guidelines, we can ensure that our employees represent our company's values and maintain a positive image on social media. Any violation of this policy will result in disciplinary action, up to and including termination of employment.
+## Audio Volume/ Timely response:
+Low audio volume or no response is not acceptable as it hinders effective communication and can cause delays and misunderstandings.
+
+It is important to note that this policy is in place to ensure that we maintain a high level of professionalism and productivity during our calls. Any violation of this policy will result in disciplinary action, up to and including termination of employment. We take this policy seriously, and we expect all employees to adhere to it.
