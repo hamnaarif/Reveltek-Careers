@@ -13,7 +13,7 @@ It is menditatory to have a professional and elegant profile picture with the re
 While full-time employed with us, employees cannot list that they work for any other company but ours. We believe in honesty and integrity at work. 
 
 ## Responsibility for Reputation:
-Employees must take responsibility for our reputation in their social media posts. How they conduct themselves on social media is a reflection of our firm and our values.
+Employees must take responsibility for our reputation in their social media posts. How they conduct themselves on social media is a reflection of our firm and our values. They should add the SILK activites to their profile to show their interest and good habits. 
 
 ## No Bullying:
 Employees cannot bully others online. Any form of harassment or discriminatory behavior will not be tolerated.
