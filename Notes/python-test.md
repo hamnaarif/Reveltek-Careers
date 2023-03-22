@@ -27,21 +27,23 @@ Here are the instructions for the test:
 1. Create a public repo titled "EasyCalc"
 3. Create a readme file for the repo and tell us about your calculator app.
 5. Create a milestone that is titled "Simple Calculator."
-6. Create these 8 issues in this milestone:
-   1. Mermaid Diagram
+6. Create these 9 issues in this milestone:
+   1. Create a Figma File of your Wireframe or Ideation of your App
+      - Put the link to your Figma File in your Readme file to let people see your idea    
+   3. Mermaid Diagram
       - Create a mermaid.js diagram of how the app works
-   2. Make a branch called "functions"
+   4. Make a branch called "functions"
       - Inside this branch, create an atomic model folder structure of a python app.
       - Inside the app branch, make a calculator function of any kind.
-   3. Create another branch called "gui"
+   5. Create another branch called "gui"
       - Inside this branch, add a tkinter 2-page app.
-   4. Create a 3rd branch called "master"
+   6. Create a 3rd branch called "master"
       - Inside master, combine the other 2 branches.
-   5. Get the calculator to show up on gui and function properly.
-   6. Turn this into a deliverable .exe file using pyinstaller.
-   7. Add a feature enhancement to the calculator.
-   8. Add any feature you want and follow the Smart Commit process.
-   9. Make a 2nd .exe for v0.2 and update the readme of the changes you made of the comparable difference of v0.1 to v0.2.
+   7. Get the calculator to show up on gui and function properly.
+   8. Turn this into a deliverable .exe file using pyinstaller.
+   9. Add a feature enhancement to the calculator.
+   10. Add any feature you want and follow the Smart Commit process.
+   11. Make a 2nd .exe for v0.2 and update the readme of the changes you made of the comparable difference of v0.1 to v0.2.
 -----
 
 ### Submitting Your Repo
