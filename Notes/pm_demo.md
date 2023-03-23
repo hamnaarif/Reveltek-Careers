@@ -7,6 +7,7 @@ The task is to test the knowledge of a Product Manager regarding the usage of la
 4. Clean up any messy markdown files in the repository.
 5. Use advanced markdown features like titles, bold, tables, etc. to improve the readability of the repository.
 6. Use mermaid.js to create diagrams, flowcharts, or other visual aids to explain the project.
+7. Use the Actions tab to automate something.
 ## Timeline:
 The applicant should create a timeline to show the stakeholders when the project will be completed. The timeline should include:
 - Milestones
