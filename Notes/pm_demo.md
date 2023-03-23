@@ -17,7 +17,8 @@ The applicant should create a timeline to show the stakeholders when the project
 - Estimated time to complete each task
 ## Additional Requirements:
 The applicant should demonstrate their ability to use Smart Commits and other advanced GitHub features expected from a Project Manager or Agile Contributor who is not a developer.
-## Sources:
+## Training Available Here:
+- [RevelTek Training](https://training.reveltek.com)
 - [GitHub Guides](https://guides.github.com/)
 - [GitHub Markdown Guide](https://guides.github.com/features/mastering-markdown/)
 - [Mermaid.js](https://mermaid-js.github.io/mermaid/)
