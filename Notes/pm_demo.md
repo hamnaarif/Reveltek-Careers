@@ -1,5 +1,5 @@
 # Hands-On GitHub Test for a Product Manager
-The task is to test the knowledge of a Product Manager regarding the usage of labels, milestones, issues and cleaning up messy markdown files in a Python App. The applicant should also demonstrate their ability to use mermaid.js and advanced markdown usage like titles, bold, tables etc.
+The task is to test the knowledge of a Product Manager regarding the usage of labels, milestones, issues and cleaning up messy repos. The applicant should also demonstrate their ability to use mermaid.js and advanced markdown usage like titles, bold, tables etc.
 ## Steps:
 1. Fork a GitHub repository from [World Enterprise](https://github.com/WorldEnterpriseGroup/).
 2. Restructure the repository to make it visually appealing and demonstrate proper usage of GitHub features like Wiki, Readme and Projects tab.
