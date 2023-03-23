@@ -1,6 +1,6 @@
 # SharePoint Look Book
 
-SharePoint Look Book Strengths and Benefits
+### SharePoint Look Book Strengths and Benefits
 
 SharePoint Look Book is a collection of templates that can be used to create modern and visually appealing SharePoint sites. These templates are designed to showcase the capabilities of SharePoint and to help organizations quickly create sites that are tailored to their needs. Some of the strengths and benefits of SharePoint Look Book include:
 
