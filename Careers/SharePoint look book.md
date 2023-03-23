@@ -14,4 +14,7 @@ While the templates are pre-designed, they are also customizable. Organizations 
 The templates in SharePoint Look Book are designed to be modern and visually appealing. This can help organizations create sites that are engaging and easy to use.
 
 ### Responsive: 
-The templates are designed to be responsive, which means that they can be accessed on a variety of devices, including desktops, laptops, tablets, and smartphones.Integration with other Microsoft products: SharePoint Look Book templates can be integrated with other Microsoft products, such as PowerApps and Power BI. This can help organizations create powerful and integrated solutions.
+The templates are designed to be responsive, which means that they can be accessed on a variety of devices, including desktops, laptops, tablets, and smartphones.
+
+### Integration with other Microsoft products: 
+SharePoint Look Book templates can be integrated with other Microsoft products, such as PowerApps and Power BI. This can help organizations create powerful and integrated solutions.
