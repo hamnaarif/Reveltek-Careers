@@ -18,3 +18,4 @@ The templates are designed to be responsive, which means that they can be access
 
 ### Integration with other Microsoft products: 
 SharePoint Look Book templates can be integrated with other Microsoft products, such as PowerApps and Power BI. This can help organizations create powerful and integrated solutions.
+
