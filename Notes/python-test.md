@@ -20,6 +20,7 @@ To use the calculator app, simply enter two numbers and select the desired opera
 - Use labels, tags, and other Issue management to the best of your ability.
 - Attach all development directly to an issue before you start working on it.
 - Comment in your issues daily as if you are working on a large team, to let your "teammates" know what you've accomplished for the day like an Agile Daily Standup
+- Every Issue should be attached to its own branch, with properly dynamically linking of the branch and issue.
 -----
 
 ## Instructions
@@ -32,13 +33,12 @@ Here are the instructions for the test:
       - Put the link to your Figma File in your Readme file to let people see your idea    
    3. Mermaid Diagram
       - Create a mermaid.js diagram of how the app works
-   4. Make a branch called "functions"
-      - Inside this branch, create an atomic model folder structure of a python app.
-      - Inside the app branch, make a calculator function of any kind.
-   5. Create another branch called "gui"
-      - Inside this branch, add a tkinter 2-page app.
-   6. Create a 3rd branch called "master"
-      - Inside master, combine the other 2 branches.
+   4. Create an Atomic Model Folder Structure
+      - Inside this issue, make a calculator function of any kind.
+   5. Create a Tkinter GUI
+      - Inside this issue, add a tkinter 2-page app.
+   6. Combine the above features
+      - Inside the master branch, merge the GUI and the Atomic Model Folder Structure branches.
    7. Get the calculator to show up on gui and function properly.
    8. Turn this into a deliverable .exe file using pyinstaller.
    9. Add a feature enhancement to the calculator.
