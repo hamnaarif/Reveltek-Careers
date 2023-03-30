@@ -21,10 +21,6 @@ The LEAN Agile Analyst will be responsible for analyzing each employee on a dail
 - The meeting notes should always go inside issues in the form of comments.
 - In chats the meeting information should properly be given like The reason for the meeting, people included in the meeting and the time duration of the meeting. 
 
-
-
-
-
 -When Issue is completed it should be informed back in the chat of the particular project.
 - Ensure all other pieces of lean agile are being followed
 
