@@ -21,3 +21,17 @@ The LEAN Agile Analyst will be responsible for analyzing each employee on a dail
 - Strong analytical and problem-solving skills
 - Excellent communication and interpersonal skills
 - Ability to work independently and as part of a team
+
+### Suggestions 
+Some suggestions for the spreadsheet for the Lean Agile Analyst to check on a daily basis. Here are a few ideas:
+- Number of completed tasks
+- Number of tasks in progress
+- Number of tasks blocked
+- Number of tasks completed on time
+- Number of tasks completed late
+- Number of bugs found
+- Number of bugs fixed
+- Number of code reviews completed
+- Number of code reviews pending
+- Number of pull requests submitted
+- Number of pull requests merged
