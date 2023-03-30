@@ -17,6 +17,9 @@ The LEAN Agile Analyst will be responsible for analyzing each employee on a dail
 - PR needs to have more description in the comments because one line cant explains anything. 
 - You have to attach the PR to the issue. The only reason the PR is getting approved is that it is attached to an issue.
 - Review changes- Approval should be from review changes, Request changes should be from Review changes option.
+- In MS Teams chats. Proper structured communication should be there like: We are working on issue #_________ After completion of issue, it should be notified in chat. When some PR is made then also chat should be used to indicate about it.
+- The meeting notes should always go inside issues in the form of comments.
+- In chats the meeting information should properly be given like The reason for the meeting, people included in the meeting and the time duration of the meeting. 
 
 
 
