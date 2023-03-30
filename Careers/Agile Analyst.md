@@ -15,7 +15,9 @@ The LEAN Agile Analyst will be responsible for analyzing each employee on a dail
 - After the PR is reviewed by Manager/Team members, Then they needs to go back to the issue, and in the issue, They need to comment on with the number and name of the PR saying that PR # ___ completes 75% of the issue, I think there should be one more PR and the issue would be completed or they need to comment on with the number and name of the PR saying that PR # ___ completes the issue.
 - There need to be multiple reviewers in the PR before it finally goes to the Boss.
 - PR needs to have more description in the comments because one line cant explains anything. 
-- 
+- You have to attach the PR to the issue. The only reason the PR is getting approved is that it is attached to an issue.
+- Review changes- Approval should be from review changes, Request changes should be from Review changes option.
+
 
 
 
