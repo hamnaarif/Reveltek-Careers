@@ -19,6 +19,8 @@ This document serves as a guideline for the responsibilities and requirements of
 - Communicate effectively with construction workers using GitHub issue commits
 - Handle inquiries and requests from tenants and clients
 - Manage booking calendars and scheduling for properties
+- Sending mails to clients.
+- Replying to clients on behalf of company.
 - Fix and resolve issues that tenants bring to attention
 - Conduct property inspections and maintenance checks
 - Ensure compliance with all lease agreements and regulations
