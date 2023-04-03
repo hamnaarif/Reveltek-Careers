@@ -1,4 +1,7 @@
-# BIM Associate
+# BIM Manager
+
+### Purpose:
+This document serves as a guideline for the responsibilities and requirements of the BIM Manager role in our company.
 
 ### Responsibilities
 - Create architectural designs using Revit software
