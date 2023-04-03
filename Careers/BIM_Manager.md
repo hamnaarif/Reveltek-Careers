@@ -8,6 +8,35 @@ This document serves as a guideline for the responsibilities and requirements of
 - Prepare MEP plans and communicate with permit offices
 - Design and coordinate landscaping plans
 - Prepare inspection reports for commercial building needs for various offices such as:
+- Health department for restaurant design
+  - Fire department
+  - Electrical Department
+  - Water Works Offices
+  - Full Compliance and Regulation Standards with all Government Bodies
+- Manage construction projects using GitHub issues and milestones
+- Load ReadMe.md files per house to ensure clear communication with construction workers
+- Create and manage issues in GitHub, and ensure they flow properly into milestones
+- Communicate effectively with construction workers using GitHub issue commits
+- Handle inquiries and requests from tenants and clients
+- Manage booking calendars and scheduling for properties
+- Fix and resolve issues that tenants bring to attention
+- Conduct property inspections and maintenance checks
+- Ensure compliance with all lease agreements and regulations
+- Handle lease agreements and renewals
+- Oversee rent collections and payments
+- Manage and coordinate property-related finances and budgets
+- Provide excellent customer service to tenants and clients
+- Additional Responsibilities for Digital Property Management and Leases:
+- Dealing with clients, inquiries, booking calendars, and fixing issues that tenants bring to our attention.
+- Ensuring compliance with all lease agreements and regulations
+- Overseeing rent collections and payments
+- Managing and coordinating property-related finances and budgets
+
+
+- Create architectural designs using Revit software
+- Prepare MEP plans and communicate with permit offices
+- Design and coordinate landscaping plans
+- Prepare inspection reports for commercial building needs for various offices such as:
   - Health department for restaurant design
   - Fire department
   - Electrical Department
