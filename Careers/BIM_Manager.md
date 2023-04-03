@@ -32,20 +32,6 @@ This document serves as a guideline for the responsibilities and requirements of
 - Overseeing rent collections and payments
 - Managing and coordinating property-related finances and budgets
 
-
-- Create architectural designs using Revit software
-- Prepare MEP plans and communicate with permit offices
-- Design and coordinate landscaping plans
-- Prepare inspection reports for commercial building needs for various offices such as:
-  - Health department for restaurant design
-  - Fire department
-  - Electrical Department
-  - Water Works Offices
-  - Full Compliance and Regulation Standards with all Government Bodies
-- Manage construction projects using GitHub issues and milestones
-- Load ReadMe.md files per house to ensure clear communication with construction workers
-- Create and manage issues in GitHub, and ensure they flow properly into milestones
-- Communicate effectively with construction workers using GitHub issue commits
 ### Requirements
 - At least 2 years of experience in architectural design and construction project management
 - Proficiency in Revit Software
@@ -56,8 +42,10 @@ This document serves as a guideline for the responsibilities and requirements of
 - Excellent communication skills and ability to work independently
 - Remote Commmunication Skills, Video Meetings, and Note Taking
 - Bachelor's degree in Architecture or related field (preferred)
+
 ## About Our Company
-We are a fast-growing remote team that specializes in architectural design and construction management. Our team consists of highly skilled professionals who work together to deliver exceptional results for our clients. As an Architectural Designer and Construction Associate, you will have the opportunity to work on a variety of projects and collaborate with a team of experts in the field.
+We are a fast-growing remote team that specializes in architectural design and construction management. Our team consists of highly skilled professionals who work together to deliver exceptional results for our clients. As an Architectural Designer and Construction Manager, you will have the opportunity to work on a variety of projects and collaborate with a team of experts in the field.
+
 ## Why Work With Us?
 - We offer a flexible work schedule and 100% remote work
 - We offer Virtual Access to State-of-the-Art Computer Design Systems with the latest GPU and CPU Processors
@@ -65,7 +53,12 @@ We are a fast-growing remote team that specializes in architectural design and c
 - Our team is highly skilled and collaborative, offering opportunities for growth and learning
 - We offer a competitive salary and benefits package
 - We give full access to Revit 2023 and Proper Training on All Software and Techniques
-- **Salary: 25K PKR per month**
+
+#### Salary:
+- Dynamic Salary Package 
+- Base Salary 15k PKR each month. 
+- On booking each property you will get 5-10k. Depending on the condition of the property after it is returned. If it needs repairing then money might go to repairing team but the kep to success is to bring in people who won't bring damagh to the property. 
+- Can earn upto 1 Lakh PKR. 
 
 ## Portfolio of Our Projects
 - [United Home](https://github.com/United-Home/Overview)
