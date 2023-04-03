@@ -44,4 +44,3 @@ This is a cycle.
 SILK is the fabric that holds everything together
 
 Example- Aini in SILK doing testing. Aini will be QA. 
-![image](https://user-images.githubusercontent.com/111142573/229447930-589e576c-21b1-4250-9973-5c95924df9dd.png)
