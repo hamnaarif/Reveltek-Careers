@@ -56,22 +56,24 @@ Recommendations: Based on their analysis and mapping of the design, Northern Ark
 Overall, Northern Ark's expertise in mapping technology can be instrumental in helping you optimize the design of your product or service. By working with a skilled mapping team, you can gain valuable insights into user behavior, identify potential design issues, and create an optimized user experience that will help your product or service stand out in the marketplace.
 
 ### Jivva: 
+Jivva is an implementation company that specializes in turning ideas into functional products or services. The company has a team of experienced professionals who are skilled in a wide range of implementation techniques, including software development, hardware engineering, and project management.
+
+When it comes to implementing an idea, Jivva can provide valuable support and expertise to help you transform your vision into a reality. The company's approach involves a focus on building, rather than simply dreaming, and they are committed to delivering high-quality products or services that meet your specific needs.
+
+Implementation: Jivva will work closely with you to understand your idea and develop a plan for implementing it. This might involve creating a detailed project plan, identifying key milestones and deliverables, and allocating resources to ensure that the project is completed on time and within budget.
+
+Software Development: If your idea involves developing software, Jivva has a team of experienced software developers who can create custom solutions that meet your specific needs. They use the latest development technologies and tools to create scalable, high-performance software that is reliable and easy to maintain.
+
+Hardware Engineering: If your idea involves hardware development, Jivva has a team of hardware engineers who can design and develop custom hardware solutions that meet your specific requirements. They have experience working with a wide range of hardware platforms and can create solutions that are optimized for performance, reliability, and cost-effectiveness.
+
+Project Management: Jivva's project management team will oversee the implementation process to ensure that the project is completed on time, within budget, and to your specifications. They will provide regular updates on project progress, identify potential risks or issues, and work with you to make any necessary adjustments to the project plan.
+
+Overall, Jivva's focus on implementation and their expertise in software development, hardware engineering, and project management can help you turn your idea into a functional product or service. By working with a skilled implementation team, you can ensure that your vision becomes a reality and that your product or service meets the needs of your customers.
 
 
 
+### Jaivai- 
 
-Silk- it will help the sale
-It is customer-facing. 
-SILK will do the testing
-It can be anything- Company, Service, or product.
-SILK will be the face where all the 
-SILK 
 
-Hospitality, Feedback, Customer
+Jaivai is the fabric that holds everything together
 
-SILK will be at the end.
-
-This is a cycle.
-SILK is the fabric that holds everything together
-
-Example- Aini in SILK doing testing. Aini will be QA. 
