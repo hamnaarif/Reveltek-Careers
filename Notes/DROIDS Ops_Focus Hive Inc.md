@@ -12,6 +12,7 @@ The World Enterprise has 5 departements/companies underneath it.
 4. Jivva
 5. Jaivai 
 
+All of them are using DROID Ops in their work to get successfull results. The following is the explanation to how DROID Ops is being used by each.
 1. HardMagic- 
 Will be responsible for Design. The idea will be designed by HardMagic. 
 
