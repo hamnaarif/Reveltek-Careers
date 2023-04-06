@@ -73,7 +73,11 @@ Overall, Jivva's focus on implementation and their expertise in software develop
 
 
 ### Jaivai- 
+Jaivai will be involved in the later stages of the DROID Ops cycle, following the D-Delivery stage. Their focus on QA and Sales & Customer-facing activities can help ensure that products or services are functional and meet customer needs, as well as promoting and selling them to customers.
 
+Their involvement in testing can help identify any potential issues or bugs before the product or service is released to customers, which can help improve its overall quality and customer satisfaction. Their expertise in sales and customer-facing activities can also help increase sales by ensuring that the product or service meets the needs of customers and by building strong relationships with them.
+
+Overall, Jaivai's role in the DROID Ops cycle can help ensure that the product or service is delivered successfully to customers and meets their needs, while also driving sales and building customer loyalty.
 
 Jaivai is the fabric that holds everything together
 
