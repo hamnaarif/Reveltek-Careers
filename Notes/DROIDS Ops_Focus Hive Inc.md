@@ -55,10 +55,9 @@ Recommendations: Based on their analysis and mapping of the design, Northern Ark
 
 Overall, Northern Ark's expertise in mapping technology can be instrumental in helping you optimize the design of your product or service. By working with a skilled mapping team, you can gain valuable insights into user behavior, identify potential design issues, and create an optimized user experience that will help your product or service stand out in the marketplace.
 
-Rt- no longer map but functionality 
-It will be an implementation 
-No dream it will be implementation 
-They build.
+### Jivva: 
+
+
 
 
 Silk- it will help the sale
