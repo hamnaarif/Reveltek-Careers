@@ -29,7 +29,7 @@ Design Execution: Once the concept has been finalized and the prototype has been
 
 Overall, HardMagic's expertise in design can be instrumental in helping you turn your idea into a reality. By working with a skilled design team, you can ensure that your product, service, or company is not only functional and effective, but also visually appealing, intuitive, and engaging to your target audience.
 
-Research Tech-
+### Research Tech-
 Research Tech is a professional research firm that specializes in conducting comprehensive analyses of new products and services. The firm has a team of experienced researchers who are skilled in a wide range of research techniques, including market analysis, technology analysis, and design analysis.
 
 When it comes to analyzing the design and idea of a new product or service, Research Tech can provide valuable insights and recommendations based on their R-Research methodology, which is powered by DROID Ops. This approach combines advanced data analytics with machine learning algorithms to analyze vast amounts of information and identify trends and patterns that might be missed by traditional research methods.
