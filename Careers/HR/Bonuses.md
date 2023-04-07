@@ -32,4 +32,12 @@ By fostering curiosity in the workplace, you can create a culture that values le
 ### 2. Rgularity 
 Disruptions in schedules & timings really cause issues in the business sector. The decisions you make such as staying up late, not eating appropriately, or failing to utilize schedules and clocks cause your performance to destabilize. 
 A mature worker thinks 5 steps ahead on their actions so they can see how each action will affect their future, their clients’ future, and their overall organizations success.
-Therefore, 
+Therefore, don't miss office becasue you will loose the Bonus if you miss office and You will losse the bonuse if you don't have regular clock in timing. 
+
+## Focus Bonus
+By using a combination of these methods, you can get a good idea of an employee's focus and determine whether they are eligible for a focus bonus
+1. Time management
+2. Quality of work
+3. Feedback from colleagues
+4. Self-assessment
+5. Assessment by managers
