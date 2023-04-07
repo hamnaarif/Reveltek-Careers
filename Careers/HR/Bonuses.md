@@ -34,10 +34,19 @@ Disruptions in schedules & timings really cause issues in the business sector. T
 A mature worker thinks 5 steps ahead on their actions so they can see how each action will affect their future, their clients’ future, and their overall organizations success.
 Therefore, don't miss office becasue you will loose the Bonus if you miss office and You will losse the bonuse if you don't have regular clock in timing. 
 
-## Focus Bonus
+### Focus Bonus
 By using a combination of these methods, you can get a good idea of an employee's focus and determine whether they are eligible for a focus bonus
 1. Time management
 2. Quality of work
 3. Feedback from colleagues
 4. Self-assessment
 5. Assessment by managers
+
+### Ethics & Security Bonus
+By using a combination of these methods, you can get a good idea of an employee's ethics and security performance and determine whether they are eligible for an ethics and security bonus.
+1. Compliance: Compliance with company policies, legal requirements, and industry standards.  
+2. Zero Trust Policy: Data privacy, confidentiality, and workplace safety.
+3. Adherence to code of conduct: Honesty, integrity, and respect for others.
+4. Risk management: Identifying and reporting security threats, following security protocols, and protecting sensitive information.
+5. Incident reporting: Reporting suspected fraud, theft, or other ethical violations.
+6. Training completion: Ethics and security training programs. Cyber Security Training 
