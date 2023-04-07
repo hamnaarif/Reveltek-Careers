@@ -19,3 +19,8 @@ The folowing are the 5 types of bonuses that can be availed by the employees if 
 3. C. Focus Bonus
 4. D. Ethics & Security Bonus
 5. E. Productivity Bonus
+
+1. Curiosity
+### 2. Rgularity 
+Disruptions in schedules & timings really cause issues in the business sector. The decisions you make such as staying up late, not eating appropriately, or failing to utilize schedules and clocks cause your performance to destabilize. 
+A mature worker thinks 5 steps ahead on their actions so they can see how each action will affect their future, their clients’ future, and their overall organizations success
