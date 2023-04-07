@@ -49,4 +49,9 @@ By using a combination of these methods, you can get a good idea of an employee'
 3. Adherence to code of conduct: Honesty, integrity, and respect for others.
 4. Risk management: Identifying and reporting security threats, following security protocols, and protecting sensitive information.
 5. Incident reporting: Reporting suspected fraud, theft, or other ethical violations.
-6. Training completion: Ethics and security training programs. Cyber Security Training 
+6. Training completion: Ethics and security training programs. Cyber Security Training.
+
+### Productivity Bonus 
+By using a combination of these methods, you can get a good idea of an employee's productivity and determine whether they are eligible for a productivity bonus.
+1. Quantity and quality of output: One way to measure productivity is by looking at the quantity and quality of an employee's output. 
+This can include things like the number of units produced, the number of sales made, or the number of customers served, The quality or quantity of coding/ programming/ mapping, designing, content writing done. It's important to also evaluate the quality of the work produced to ensure that quantity does not compromise quality.
