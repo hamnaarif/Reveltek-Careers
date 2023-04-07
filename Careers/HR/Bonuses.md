@@ -9,4 +9,4 @@ The Plan aims to provide all full-time employees of the Company with a financial
 All full-time employees of the Company who are employed by the RevelTek Inc. are eligible to get in pool of Bonuses according to thier performances.
 
 ## 3. Full-Time Employees
-“Full-time employees” shall be deemed to mean employees who complete not less than [Insert number of hours] hours of service with the Company during the calendar year. An employee whose employment with the Company is terminated for any reason prior to December 31 shall not be entitled to share in the allocation of the Bonus Pool.
+“Full-time employees” shall be deemed to mean employees who complete not less than 80 hours per pay period (2 weeks) and 160 hours per month of service with the Company. An employee whose employment with the Company is terminated for any reason shall not be entitled to share in the allocation of the Bonus Pool.
