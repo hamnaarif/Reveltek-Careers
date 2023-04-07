@@ -14,8 +14,8 @@ All full-time employees of the Company who are employed by the RevelTek Inc. are
 ## 4. Types of Bonus
 The folowing are the 5 types of bonuses that can be availed by the employees if they perform well and according to the required level. 
 
-A. Curiosity Bonus
-B. Regularity Bonus
-C. Focus Bonus
-D. Ethics & Security Bonus
-E. Productivity Bonus
+1. A. Curiosity Bonus
+2. B. Regularity Bonus
+3. C. Focus Bonus
+4. D. Ethics & Security Bonus
+5. E. Productivity Bonus
