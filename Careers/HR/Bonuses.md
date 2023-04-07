@@ -10,3 +10,12 @@ All full-time employees of the Company who are employed by the RevelTek Inc. are
 
 ## 3. Full-Time Employees
 “Full-time employees” shall be deemed to mean employees who complete not less than 80 hours per pay period (2 weeks) and 160 hours per month of service with the Company. An employee whose employment with the Company is terminated for any reason shall not be entitled to share in the allocation of the Bonus Pool.
+
+## 4. Types of Bonus
+The folowing are the 5 types of bonuses that can be availed by the employees if they perform well and according to the required level. 
+
+A. Curiosity Bonus
+B. Regularity Bonus
+C. Focus Bonus
+D. Ethics & Security Bonus
+E. Productivity Bonus
