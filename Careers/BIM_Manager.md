@@ -1,7 +1,7 @@
-# BIM Manager
+# Agile Property Management
 
 ### Purpose:
-This document serves as a guideline for the responsibilities and requirements of the BIM Manager role in our company.
+This document serves as a guideline for the responsibilities and requirements of the Agile Property Management and BIM Management role in our company.
 
 ### Responsibilities
 - Create architectural designs using Revit software.
