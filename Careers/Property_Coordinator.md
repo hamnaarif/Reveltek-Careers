@@ -13,7 +13,7 @@ This document serves as a guideline for the responsibilities and requirements fo
   - Electrical Department
   - Water Works Offices
   - Full Compliance and Regulation Standards with all Government Bodies.
-- Create MIlestones, Issues, and Comments using Agile Methodology on GitHub for each property.
+- Create Milestones, Issues, and Comments using Agile Methodology on GitHub for each property.
 - Load ReadMe.md files per house to ensure clear communication with construction workers.
 - Create and manage issues in GitHub, and ensure they flow properly into milestones.
 - Communicate effectively with construction workers using GitHub issue commits.
