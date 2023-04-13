@@ -1,4 +1,4 @@
-# Agile Property Management
+# Digital Property Management
 
 ### Purpose:
 This document serves as a guideline for the responsibilities and requirements of the Agile Property Management and BIM Management role in our company.
