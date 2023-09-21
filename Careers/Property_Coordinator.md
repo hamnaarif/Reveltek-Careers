@@ -56,8 +56,8 @@ We are a fast-growing remote team that specializes in architectural design and c
 
 #### Salary:
 - Dynamic Salary Package 
-- Base Salary 15k PKR each month. 
-- Up to 40K PKR with performance bonuses
+- Base Salary 11k PKR each month. 
+- Up to 40K PKR per month with performance bonuses
 
 ## Portfolio of Our Projects
 - [United Home](https://github.com/United-Home/Overview)
